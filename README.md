@@ -7,7 +7,7 @@ BetterLog.js is a **lightweight** and **fast** JavaScript library that improves 
 # Documentation
 
 ### Quick Start
-First we need to import the library. To do this, we need to write a script connection in the HTML file:
+First you need to import the library. To do this, you need to write a script connection in the HTML file:
 ```JavaScript
 <script src="https://sh4man4ik.github.io/BetterLog.js/v1.0.0/betterlog.js"></script>
 ```
