@@ -85,4 +85,4 @@ Output:
 The library is written in **JavaScript**.
 
 # Source code
-The source code is in the library **version folder**, so you can see the source code for the first and subsequent versions.
+The source code is in the library **version folder**.
