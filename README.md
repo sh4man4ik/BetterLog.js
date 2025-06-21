@@ -18,7 +18,7 @@ let cons = new BetterLog();
 ```
 
 ### Quick Start (Node.js)
-First you need to download the library. You can do this with the command:
+First you need to download the library. But note that many things that work in the browser may not work in the console. You can do this with the command:
 ```bash
 npm install @sh4manik/betterlog.js
 ```
