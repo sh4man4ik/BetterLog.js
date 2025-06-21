@@ -1,5 +1,5 @@
 # BetterLog.js
-![last version](https://img.shields.io/badge/version-v1.0.2-brightgreen)
+![version](https://img.shields.io/badge/version-v1.0.3-brightgreen)
 
 ### JavaScript library
 BetterLog.js is a **lightweight** and **fast** JavaScript library that improves the logging experience by adding many new features and customization.
@@ -9,7 +9,7 @@ BetterLog.js is a **lightweight** and **fast** JavaScript library that improves 
 ### Quick Start (Browser)
 First you need to import the library. To do this, you need to write a script connection in the HTML file:
 ```HTML
-<script src="https://sh4man4ik.github.io/BetterLog.js/v1.0.2/betterlog.js"></script>
+<script src="https://sh4man4ik.github.io/BetterLog.js/v1.0.3/betterlog.js"></script>
 ```
 
 In JavaScript code, you need to create an object:
