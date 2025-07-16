@@ -1,0 +1,19 @@
+{
+  "name": "mathplusjs-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.31.0",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "@sh4manik/betterlog.js": "^1.0.6"
+  }
+}
