@@ -1,11 +1,12 @@
 # BetterLog.js
 
-![version](https://img.shields.io/badge/version-1.0.6-brightgreen)
+![version](https://img.shields.io/badge/version-1.0.7-brightgreen)
 ![npm](https://img.shields.io/npm/dw/@sh4manik/betterlog.js)
 
 ### JavaScript library
 
-BetterLog.js is a **lightweight** and **fast** JavaScript library that improves the logging experience by adding many new features and customization.
+BetterLog.js is a **lightweight** and **fast** JavaScript library that improves the logging experience by adding many
+new features and customization.
 
 # Documentation
 
@@ -25,7 +26,8 @@ let cons = new BetterLog();
 
 ### Quick Start (Node.js)
 
-First you need to download the library. But note that many things that work in the browser may not work in the console. You can do this with the command:
+First you need to download the library. But note that many things that work in the browser may not work in the console.
+You can do this with the command:
 
 ```bash
 npm install @sh4manik/betterlog.js
